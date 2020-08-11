@@ -1,5 +1,7 @@
 # aws-ebs-csi-driver operator
 
+**Deprecated**: This code has moved to https://github.com/openshift/aws-ebs-csi-driver-operator
+
 An operator to deploy the [AWS EBS CSI driver](https://github.com/openshift/aws-ebs-csi-driver) in OKD.
 
 This operator is currently under heavy development and is not ready for general use yet.
